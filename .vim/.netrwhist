@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/johnsonshi/.vim'
+let g:netrw_dirhist_2='/Users/johnsonshi'
+let g:netrw_dirhist_3='/Users/johnsonshi/.eclipse'
+let g:netrw_dirhist_4='/Users/johnsonshi'
+let g:netrw_dirhist_5='/Users/johnsonshi/.bash-git-prompt'
+let g:netrw_dirhist_6='/tmp_amd/kamen/export/kamen/3/z5039153/.bash-git-prompt'
+let g:netrw_dirhist_7='/tmp_amd/kamen/export/kamen/3/z5039153/.ssh'
+let g:netrw_dirhist_8='/tmp_amd/kamen/export/kamen/3/z5039153/.bash-git-prompt'
