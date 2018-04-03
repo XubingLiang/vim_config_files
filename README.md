@@ -6,3 +6,4 @@ dependencied needed:
 
 basically just git clone to the home directory 
 and run ./setup.sh
+don't forget to install Vundle after run setup.sh
